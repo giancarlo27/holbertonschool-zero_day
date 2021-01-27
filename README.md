@@ -1,3 +1,3 @@
 
-**This file is mandatory in all holberton school projects** and this is the modification
+**This file is mandatory in all holberton school projects**
 # holbertonschool-zero_day
